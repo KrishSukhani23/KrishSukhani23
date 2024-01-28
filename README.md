@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [Krish Sukhani]
+# Krish Sukhani
 ## Computer Science Graduate Student at University of Southern California (USC)
 
 ### About Me
@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 - Kubernetes
 
 ### How to Reach Me
-I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via [LinkedIn Badge](#https://www.linkedin.com/in/krishsukhani/).
+I'm always excited to connect with fellow tech enthusiasts, potential collaborators, and recruiters. Feel free to get in touch with me via https://www.linkedin.com/in/krishsukhani/.
 
 ---
