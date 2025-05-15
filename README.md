@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 ## Computer Science Graduate Student at University of Southern California (USC)
 
 ### About Me
-👩‍💻 Currently working as a Web Developer, at Keck School of Medicine, USC.
+😄 Data Scientist at Kero Sports, building the future of sports micro betting
 
-🌐 Actively involved in Machine Learning Research.
+👩‍💻 Worked as a Web Developer, at Keck School of Medicine, USC.
+
+🌐 Actively involved in Machine Learning Research at IMSC Lab, USC.
 
 🤖 Experience in developing softwares during my tenure at Thumbo.
 
